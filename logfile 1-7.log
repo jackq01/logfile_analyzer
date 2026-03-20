@@ -1,0 +1,270 @@
+%@46%May 16 01:00:44:650 2017 H3C SHELL/6/SHELL_CMD_CONFIRM: Confirm option of command reboot slot 6 is yes.
+%@47%May 16 01:00:44:755 2017 H3C DEV/5/BOARD_REBOOT: Board is rebooting on slot 6.
+%@48%May 19 09:23:12:785 2017 H3C SYSLOG/6/SYSLOG_RESTART: System restarted --
+H3C Comware Software.
+%@49%May 19 09:24:23:397 2017 H3C LIC/4/LICENSE: Data integrity check failed for the license storage area.
+%@50%May 19 09:24:23:418 2017 H3C LIC/6/LICENSE: valid did and did file is diff, create new did file.
+%@51%May 19 09:24:24:547 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 0, type is unknown.
+%@52%May 19 09:24:24:549 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 1, type is unknown.
+%@53%May 19 09:24:24:551 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 2, type is unknown.
+%@54%May 19 09:24:24:552 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 3, type is unknown.
+%@55%May 19 09:24:24:554 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 4, type is unknown.
+%@56%May 19 09:24:24:556 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 5, type is unknown.
+%@57%May 19 09:24:24:557 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 7, type is unknown.
+%@58%May 19 09:24:24:559 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 8, type is unknown.
+%@59%May 19 09:24:24:561 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 9, type is unknown.
+%@60%May 19 09:24:24:563 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 10, type is unknown.
+%@61%May 19 09:24:24:564 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 11, type is unknown.
+%@62%May 19 09:24:24:566 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 12, type is unknown.
+%@63%May 19 09:24:24:568 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 13, type is unknown.
+%@64%May 19 09:24:24:570 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 14, type is unknown.
+%@65%May 19 09:24:24:572 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 15, type is unknown.
+%@66%May 19 09:24:24:573 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 16, type is unknown.
+%@67%May 19 09:24:24:575 2017 H3C DEV/2/BOARD_STATE_FAULT: Board state changed to Fault on slot 17, type is unknown.
+%@68%May 19 09:24:34:517 2017 H3C SHELL/4/SHELL_CMD_MATCHFAIL: -User=-IPAddr=; Command interface M-GigabitEthernet 1/0/0/0 in view M-GigabitEthernet0/0/0 failed to be matched.
+%@69%May 19 09:24:34:934 2017 H3C SHELL/4/SHELL_CMD_MATCHFAIL: -User=-IPAddr=; Command interface M-GigabitEthernet 1/0/0/0 in view M-GigabitEthernet0/0/0 failed to be matched.
+%@70%May 19 09:24:34:981 2017 H3C SHELL/4/SHELL_CMD_MATCHFAIL: -User=-IPAddr=; Command import interface M-GigabitEthernet 1/0/0/0 in view security-zone-Management failed to be matched.
+%@71%May 19 09:24:35:246 2017 H3C ACG/4/APR_LICENSE_UNAVAILABLE: 
+The feature ACG has no available license.
+%@72%May 19 09:24:35:254 2017 H3C IPS/4/IPS_LICENSE_UNAVAILABLE: 
+The feature IPS has no available license.
+%@73%May 19 09:24:35:302 2017 H3C ANTI-VIR/4/AV_LICENSE_UNAVAILABLE: 
+The feature Anti-virus has no available license.
+%@74%May 19 09:24:39:793 2017 H3C SHELL/5/SHELL_LOGIN: admin logged in from con0.
+%@75%May 19 09:24:41:401 2017 H3C IFNET/3/PHY_UPDOWN: Physical state on the interface M-GigabitEthernet0/0/0 changed to up.
+%@76%May 19 09:24:41:402 2017 H3C IFNET/5/LINK_UPDOWN: Line protocol state on the interface M-GigabitEthernet0/0/0 changed to up.
+%@77%May 19 09:24:42:269 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is Undo terminal monitor
+%@78%May 19 09:24:42:916 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is Undo terminal logging level
+%@79%May 19 09:24:43:550 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is Undo terminal debugging
+%@80%May 19 09:24:44:180 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is system-view
+%@81%May 19 09:24:44:822 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is User-interface console 0
+%@82%May 19 09:24:45:447 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is Screen-length 0
+%@83%May 19 09:24:46:071 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is Idle-timeout 0
+%@84%May 19 09:24:46:689 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is quit
+%@85%May 19 09:24:49:512 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is display version
+%@86%May 19 09:24:56:333 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is probe
+%@87%May 19 09:24:56:969 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is test boot flag clear
+%@88%May 19 09:24:57:610 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is test boot flag show
+%@89%May 19 09:25:01:236 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is quit
+%@90%May 19 09:25:03:518 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is quit
+%@91%May 19 09:25:04:868 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is reboot slot 6
+%@92%May 19 09:25:05:263 2017 H3C SHELL/6/SHELL_CMD_CONFIRM: Confirm option of command reboot slot 6 is no.
+%@93%May 19 09:25:05:888 2017 H3C SHELL/6/SHELL_CMD_CONFIRM: Confirm option of command reboot slot 6 is yes.
+%@94%May 19 09:25:05:993 2017 H3C DEV/5/BOARD_REBOOT: Board is rebooting on slot 6.
+%@95%May 19 09:40:07:617 2017 H3C SYSLOG/6/SYSLOG_RESTART: System restarted --
+H3C Comware Software.
+%@96%May 19 09:41:16:092 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@97%May 19 09:41:17:266 2017 H3C LIC/4/LICENSE: Data integrity check failed for the license storage area.
+%@98%May 19 09:41:17:286 2017 H3C LIC/6/LICENSE: valid did and did file is diff, create new did file.
+%@99%May 19 09:41:17:295 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@100%May 19 09:41:18:498 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@101%May 19 09:41:19:701 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@102%May 19 09:41:20:904 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@103%May 19 09:41:22:107 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@104%May 19 09:41:23:310 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@105%May 19 09:41:24:513 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@106%May 19 09:41:25:716 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@107%May 19 09:41:26:919 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@108%May 19 09:41:28:122 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@109%May 19 09:41:28:350 2017 H3C SHELL/4/SHELL_CMD_MATCHFAIL: -User=-IPAddr=; Command interface M-GigabitEthernet 1/0/0/0 in view M-GigabitEthernet0/0/0 failed to be matched.
+%@110%May 19 09:41:28:789 2017 H3C SHELL/4/SHELL_CMD_MATCHFAIL: -User=-IPAddr=; Command interface M-GigabitEthernet 1/0/0/0 in view M-GigabitEthernet0/0/0 failed to be matched.
+%@111%May 19 09:41:28:840 2017 H3C SHELL/4/SHELL_CMD_MATCHFAIL: -User=-IPAddr=; Command import interface M-GigabitEthernet 1/0/0/0 in view security-zone-Management failed to be matched.
+%@112%May 19 09:41:29:127 2017 H3C ACG/4/APR_LICENSE_UNAVAILABLE: 
+The feature ACG has no available license.
+%@113%May 19 09:41:29:136 2017 H3C IPS/4/IPS_LICENSE_UNAVAILABLE: 
+The feature IPS has no available license.
+%@114%May 19 09:41:29:192 2017 H3C ANTI-VIR/4/AV_LICENSE_UNAVAILABLE: 
+The feature Anti-virus has no available license.
+%@115%May 19 09:41:29:325 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@116%May 19 09:41:30:528 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@117%May 19 09:41:31:731 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@118%May 19 09:41:32:934 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@119%May 19 09:41:34:137 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@120%May 19 09:41:35:340 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@121%May 19 09:41:36:543 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@122%May 19 09:41:37:746 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@123%May 19 09:41:38:949 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@124%May 19 09:41:40:152 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@125%May 19 09:41:41:355 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@126%May 19 09:41:42:558 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@127%May 19 09:41:43:408 2017 H3C SHELL/5/SHELL_LOGIN: admin logged in from con0.
+%@128%May 19 09:41:43:761 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@129%May 19 09:41:44:034 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is display version
+%@130%May 19 09:41:44:964 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@131%May 19 09:41:46:167 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@132%May 19 09:41:47:370 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@133%May 19 09:41:48:573 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@134%May 19 09:41:49:776 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@135%May 19 09:41:50:394 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is d d m s 6
+%@136%May 19 09:41:50:979 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@137%May 19 09:41:52:182 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@138%May 19 09:41:52:351 2017 H3C SHELL/6/SHELL_CMD: -Line=con0-IPAddr=**-User=admin; Command is dir /all
+%@139%May 19 09:41:53:385 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@140%May 19 09:41:54:588 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@141%May 19 09:41:55:791 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@142%May 19 09:41:56:994 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@143%May 19 09:41:58:197 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@144%May 19 09:41:59:400 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@145%May 19 09:42:00:603 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@146%May 19 09:42:01:806 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@147%May 19 09:42:03:009 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@148%May 19 09:42:04:212 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@149%May 19 09:42:05:415 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@150%May 19 09:42:06:618 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@151%May 19 09:42:07:821 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@152%May 19 09:42:09:024 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@153%May 19 09:42:10:228 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@154%May 19 09:42:11:431 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@155%May 19 09:42:12:634 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@156%May 19 09:42:13:837 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@157%May 19 09:42:15:040 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@158%May 19 09:42:16:243 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@159%May 19 09:42:17:446 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@160%May 19 09:42:18:649 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@161%May 19 09:42:19:852 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@162%May 19 09:42:21:055 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@163%May 19 09:42:22:258 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@164%May 19 09:42:23:461 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@165%May 19 09:42:24:664 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@166%May 19 09:42:25:867 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@167%May 19 09:42:27:070 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@168%May 19 09:42:28:273 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@169%May 19 09:42:29:476 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@170%May 19 09:42:30:679 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@171%May 19 09:42:31:882 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@172%May 19 09:42:33:085 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@173%May 19 09:42:34:288 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@174%May 19 09:42:35:491 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@175%May 19 09:42:36:694 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@176%May 19 09:42:37:897 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@177%May 19 09:42:39:100 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@178%May 19 09:42:40:303 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@179%May 19 09:42:41:506 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@180%May 19 09:42:42:709 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@181%May 19 09:42:43:912 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@182%May 19 09:42:45:115 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@183%May 19 09:42:46:318 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@184%May 19 09:42:47:521 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@185%May 19 09:42:48:724 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@186%May 19 09:42:49:927 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@187%May 19 09:42:51:130 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@188%May 19 09:42:52:333 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@189%May 19 09:42:53:536 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@190%May 19 09:42:54:739 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@191%May 19 09:42:55:942 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@192%May 19 09:42:57:145 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@193%May 19 09:42:58:348 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@194%May 19 09:42:59:551 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@195%May 19 09:43:00:754 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@196%May 19 09:43:01:957 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@197%May 19 09:43:03:160 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@198%May 19 09:43:04:363 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@199%May 19 09:43:05:566 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@200%May 19 09:43:06:769 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@201%May 19 09:43:07:972 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@202%May 19 09:43:09:175 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@203%May 19 09:43:10:378 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@204%May 19 09:43:11:581 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@205%May 19 09:43:12:784 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@206%May 19 09:43:13:987 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot all lpu boards.
+%@207%May 19 09:43:15:190 2017 H3C DRVPLAT/2/DrvDebug: 
+ All fabric boards are absent! Reboot al
